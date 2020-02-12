@@ -1,0 +1,18 @@
+<filetype binary="false" description="Gnu Linear Programming Kit model file" name="GLPK Model">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="#" />
+      <option name="COMMENT_START" value="/*" />
+      <option name="COMMENT_END" value="*/" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+      <option name="HAS_BRACES" value="true" />
+      <option name="HAS_BRACKETS" value="true" />
+      <option name="HAS_PARENS" value="true" />
+    </options>
+    <keywords keywords="Irand224;Normal;Normal01;Uniform;Uniform01;abs;and;atan;binary;card;ceil;cos;cross;default;div;else;end;exists;exp;floor;gmtime;if;in;length;less;log;log10;max;min;mod;not;or;param;print;printf;prod;round;s.t.;set;setof;sin;sqrt;str2time;sum;tan;then;trunc;var" ignore_case="false" />
+  </highlighting>
+  <extensionMap>
+    <mapping ext="mod" />
+  </extensionMap>
+</filetype>
