@@ -10,7 +10,9 @@
       <option name="HAS_BRACKETS" value="true" />
       <option name="HAS_PARENS" value="true" />
     </options>
-    <keywords keywords="Irand224;Normal;Normal01;Uniform;Uniform01;abs;and;atan;binary;card;ceil;cos;cross;default;div;else;end;exists;exp;floor;gmtime;if;in;length;less;log;log10;max;min;mod;not;or;param;print;printf;prod;round;s.t.;set;setof;sin;sqrt;str2time;sum;tan;then;trunc;var" ignore_case="false" />
+    <keywords keywords="and;by;cross;diff;div;else;if;in;inter;less;mod;not;or;symdiff;then;union;within" ignore_case="false" />
+    <keywords2 keywords="Irand224;Normal;Normal01;Uniform;Uniform01;abs;atan;card;ceil;cos;exp;floor;gmtime;length;log;log10;max;min;sin;sqrt;str2time;tan;trunc" />
+    <keywords3 keywords="binary;check;data;default;dimen;display;end;exists;for;forall;integer;inter;maximize;minimize;out;param;print;printf;prod;round;s.t.;set;setof;solve;subj;subject;substr;sum;symbolic;table;time2str;to;tr;var" />
   </highlighting>
   <extensionMap>
     <mapping ext="mod" />
