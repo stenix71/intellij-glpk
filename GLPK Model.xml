@@ -11,8 +11,8 @@
       <option name="HAS_PARENS" value="true" />
     </options>
     <keywords keywords="and;by;cross;diff;div;else;if;in;inter;less;mod;not;or;symdiff;then;union;within" ignore_case="false" />
-    <keywords2 keywords="Irand224;Normal;Normal01;Uniform;Uniform01;abs;atan;card;ceil;cos;exp;floor;gmtime;length;log;log10;max;min;sin;sqrt;str2time;tan;trunc" />
-    <keywords3 keywords="binary;check;data;default;dimen;display;end;exists;for;forall;integer;inter;maximize;minimize;out;param;print;printf;prod;round;s.t.;set;setof;solve;subj;subject;substr;sum;symbolic;table;time2str;to;tr;var" />
+    <keywords2 keywords="Irand224;Normal;Normal01;Uniform;Uniform01;abs;atan;card;ceil;cos;exp;floor;gmtime;length;log;log10;max;min;prod;sin;sqrt;str2time;sum;tan;trunc" />
+    <keywords3 keywords="binary;check;data;default;dimen;display;end;exists;for;forall;integer;inter;maximize;minimize;out;param;print;printf;round;s.t.;set;setof;solve;subj;subject;substr;symbolic;table;time2str;to;tr;var" />
   </highlighting>
   <extensionMap>
     <mapping ext="mod" />
